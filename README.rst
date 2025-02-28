@@ -8,6 +8,7 @@ View the issues at: https://github.com/mechmotum/housekeeping/issues
 *This repository is public, so avoid including an private information in the issue text.*
 
 The lab roles are used as labels to help organize which issues are the responbility of what role:
+
 da MC: (Anna Marbus)
    Organizes the lab meeting, see the `MC Guide`_.
 Meneer/Mevrouw Schoon (Sara Youngblood)
