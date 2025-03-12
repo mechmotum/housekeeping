@@ -10,7 +10,7 @@ View the issues at: https://github.com/mechmotum/housekeeping/issues
 The lab roles are used as labels to help organize which issues are the responbility of what role:
 
 da MC: (Anna Marbus)
-   Organizes the lab meeting, see the `MC Guide`_.
+   Organizes the lab meeting, see the MC Guide.
 Meneer/Mevrouw Schoon (Sara Youngblood)
    Organizes monthly Friday afternoon tidy and bi-annual lab clean up days.
    Reminds the lab if the tidiness level is hampering other's work.
@@ -33,9 +33,9 @@ De Fikser (Jules)
 Life Coach (Neville)
    Organizes lab fun: vrijmibo's, bike rides, cheese for thought activities,
    etc. Embodies the proverb "all work and no play makes Jack a dull boy".
-Peril Preventer (unfilled)
+Peril Preventer (Rawdha)
    Keep an eye on safety and work with university safety to make sure lab is
    A-OK.
-Broom Finder (unfilled)
+Broom Finder (Rawdha)
    Periodically review the lending checkout sheet, remove old sheets, add new
    sheets, and track down non-returned items.
