@@ -9,33 +9,33 @@ View the issues at: https://github.com/mechmotum/housekeeping/issues
 
 The lab roles are used as labels to help organize which issues are the responbility of what role:
 
-da MC: (Dana)
+da MC:
    Organizes the lab meeting, see the MC Guide.
-Meneer/Mevrouw Schoon (Benjamín)
+Meneer/Mevrouw Schoon
    Organizes monthly Friday afternoon tidy and bi-annual lab clean up days.
    Reminds the lab if the tidiness level is hampering other's work.
-Dragon Hoard Overseer (Quinten)
+Dragon Hoard Overseer
    Maintains a spreadsheet on our GDrive containing the lab inventory, both
    consumable supplies and significant equipment (< 200 EUR or so). Keeps an
    eye on the borrow sheet and makes sure things are returned.
-Batterij-momma (Christoph)
+Batterij-momma
    Ensures that all batteries are stored safely and that their charge is kept
    topped up. The protector of the lives of all batteries.
-Neo T. Anderson: (Jason)
+Neo T. Anderson
    Keeps the lab chat room running. This is currently a matrix server running
    on a TU Delft VPS.
-Plant-papa (Christoph)
+Plant-papa
    Keep lab plants alive.
-De Fikser (Luna)
+De Fikser
    Monitors if equipment is broken or needs maintenance and seeks university or
    external support for repair. Coaxes the repair processes along. Sometimes
    fixes things themselves.
-Life Coach (Neville)
+Life Coach
    Organizes lab fun: vrijmibo's, bike rides, cheese for thought activities,
    etc. Embodies the proverb "all work and no play makes Jack a dull boy".
-Peril Preventer (Haye)
+Peril Preventer
    Keep an eye on safety and work with university safety to make sure lab is
    A-OK.
-Broom Finder (Stephen)
+Broom Finder
    Periodically review the lending checkout sheet, remove old sheets, add new
    sheets, and track down non-returned items.
